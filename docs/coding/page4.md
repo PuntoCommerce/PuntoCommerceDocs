@@ -6,7 +6,7 @@ The PERT formula is used to estimate the probable duration of a task in project 
 
 The formula to calculate the weighted estimate (E) in PERT is as follows:
 
-![PERT Formula: E=(O+(4xM)+P)](/images/pert_etimation.png)
+![PERT Formula: E=(O+(4xM)+P)](/images/PERT_formula.webp)
 
 Where:
 
