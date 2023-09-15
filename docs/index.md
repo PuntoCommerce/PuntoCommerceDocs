@@ -1,4 +1,25 @@
-# Welcome to MkDocs
+# Home
+
+## Welcome to Punto Commerce Documentation
+
+## Introduction
+
+Welcome to our documentation site! Here, you'll find all the information you need to get started with our development evironment.
+
+## Getting Started
+
+If you're new to our product, here are some key resources to help you get started:
+
+- Internal Documentation
+- External Documentation
+- Aditional Resources
+
+## Features
+
+Learn about the exciting features our product offers:
+
+- Searching
+- Feature 2
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 

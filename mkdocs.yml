@@ -1,6 +1,8 @@
 site_name: Punto Commerce Docs
 theme:
   name: material
+  logo: images/logo.webp
+  favicon: images/logo.webp
   features:
     - navigation.tabs
     - navigation.sections
