@@ -1,22 +1,22 @@
 # Coding Best Practices
 
-## Follow a coding standard
+## 1.1 Follow a coding standard
 
-Adopt a recognized coding standard and follow style conventions for the language you are using (eg. SFCC with CommonJs).
+Adopt a recognized coding standard and follow style conventions for the language you are using (eg. SFCC with CommonJs and MVC).
 
-## Descriptive names
+## 1.2 Descriptive names
 
 Choose descriptive and meaningful names for variables, functions, classes, and other code elements. This enhances code readability and understanding.
 
-## Clear and concise comments
+## 1.3 Clear and concise comments
 
 Use comments to explain the purpose and functioning of important parts of the code. Comments should be clear, concise, and kept up to date as the code evolves.
 
-## Modularization and code reuse
+## 1.4 Modularization and code reuse
 
 Divide your code into small, reusable modules and functions. This makes it easier to understand, maintain, and reuse code across different parts of your application.
 
-## Avoid code repetition (DRY)
+## 1.5 Avoid code repetition (DRY)
 
 Do not repeat code unnecessarily. If you find repetitive logic, encapsulate it in a function or method and use it instead.
 
@@ -65,34 +65,34 @@ In the main.js file, we import the capitalize function from the helper.js file a
 
 To run this example, ensure both helper.js and main.js are in the same directory. Then, you can execute node main.js in the terminal to see the result.
 
-## Maintenance and refactoring
+## 1.6 Maintenance and refactoring
 
 Dedicate regular time to review and refactor your code. Improve its structure, eliminate duplication, and make adjustments to keep it clean and efficient.
 
-## Proper error handling
+## 1.7 Proper error handling
 
 Implement proper error handling so your code is robust and can gracefully handle unexpected situations.
 
-## Unit testing
+## 1.8 Unit testing
 
 Write unit tests to verify that each part of your code functions correctly. Automated tests are crucial to ensure that changes do not introduce errors.
 
-## Versioning and change control
+## 1.9 Versioning and change control
 
-Use version control systems (like Git) to track and manage versions of your code. Learn to use it correctly, including branches and tags, to maintain an organized history.
+Use version control systems (Github) to track and manage versions of your code. Learn to use it correctly, including branches and tags, to maintain an organized history.
 
-## Optimization and efficiency
+## 1.10 Optimization and efficiency
 
 Optimize your code to be efficient in terms of runtime and resource usage. However, ensure that readability and maintainability are not compromised in the process.
 
-## Security
+## 1.11 Security
 
 Consider security in the design and implementation of your code. Avoid common vulnerabilities and follow good security practices.
 
-## Comprehensive documentation
+## 1.12 Comprehensive documentation
 
 Provide comprehensive and clear documentation for your code, including function descriptions, parameters, return values, and any other relevant aspects.
 
-## Learn from feedback
+## 1.13 Learn from feedback
 
 Accept and learn from feedback from other developers. Being open to improvements and learning from experiences is crucial to enhancing your coding skills.

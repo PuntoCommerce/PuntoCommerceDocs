@@ -1,12 +1,12 @@
 # Coding Estimations
 
-## PERT Estimation Formula
+## 3.1 PERT Estimation Formula
 
 The PERT formula is used to estimate the probable duration of a task in project management. It takes into account three estimates: optimistic estimate (O), most likely estimate (M), and pessimistic estimate (P) to calculate a weighted estimate (E).
 
 The formula to calculate the weighted estimate (E) in PERT is as follows:
 
-![PERT Formula: E=(O+(4xM)+P)](/docs/images/pert_estimation.png)
+![PERT Formula: E=(O+(4xM)+P)](../../images/pert_estimation.png)
 
 Where:
 
